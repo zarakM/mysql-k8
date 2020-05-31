@@ -1,0 +1,1 @@
+MySQL database deployed on kubernetes cluster
